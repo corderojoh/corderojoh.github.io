@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "John Cordero"
 title_separator          : "-"
 name                     : &name "John Cordero"
-description              : &description "Sharing professional and academic resources while also talking about fun stuff!"
+description              : &description "Sharing professional and academic resources while also talking about quantum stuff!"
 url                      : https://corderojoh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "corderojoh.github.io"
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : corderojoh
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
