@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Hey I'm John! Hope you stay awhile."
+title: "Hey I'm John! Hope you stay awhile and listen... or read in this case!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hey there, my name is John Cordero. This is my attempt at a personal website where I can share what I am doing, working on, researching, thinking about, etc. I am excited to share with you and hope you enjoy learning a bit more about me and some of my potentially outragious thoughts.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently the Manager of Secuirty and Privacy Compliance at Comcast Advertising. My team and I focus on streamlining the myraid of secuirty and privacy assessments across the organization to ensure teams stay compliant with coporate standards. 
+
+In my spare time I have to many hobbies to list here! However, my most active hobbies tend to be exercise, video games, reading, and trying to be a better Dad. Hopefully this site will also help me delve into two other passions in research and writing. 
 
 A data-driven personal website
 ======
