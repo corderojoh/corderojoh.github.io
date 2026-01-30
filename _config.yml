@@ -26,7 +26,7 @@ author:
   name             : "John Cordero"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "Comcast"
   uri              : # URL
   email            : "jac673@drexel.edu" 
